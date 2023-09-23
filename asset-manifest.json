@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/project-react-usercontext-provider/static/css/main.d2ad3c17.css",
+    "main.js": "/project-react-usercontext-provider/static/js/main.081062ac.js",
+    "index.html": "/project-react-usercontext-provider/index.html",
+    "main.d2ad3c17.css.map": "/project-react-usercontext-provider/static/css/main.d2ad3c17.css.map",
+    "main.081062ac.js.map": "/project-react-usercontext-provider/static/js/main.081062ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2ad3c17.css",
+    "static/js/main.081062ac.js"
+  ]
+}
